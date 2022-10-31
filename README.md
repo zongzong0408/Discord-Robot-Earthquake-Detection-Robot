@@ -5,13 +5,9 @@
 
 ## 執行狀況 & 原理說明 *Implementation Status* & *Principle Description*
 
-<<<<<<< HEAD
 > 可參考以下連結說明。  
 > *Bot.py* & *line 17*：變數 ***TOKEN*** 記得更換為自己的機器人 token  
 > *database.json*：可替換成自己要傳的聊天室 ID，或是自己修改成想要的樣子
-=======
-> 可參考以下連結說明。
->>>>>>> 7fa89e1a2491c424e9b5658fac2553ef2b22de84
 
 - YouTube：https://youtu.be/G_WQ1L2o_mE  
 - Paper：https://drive.google.com/file/d/1KoVMp36HbNwWH8vUUlcwltfjxMyS727S/view?usp=sharing  
@@ -26,8 +22,4 @@
 
 ## 參考 *References*
 
-<<<<<<< HEAD
 > 若有其他問題可在 GitHub 發起 issues 或寄 Email 給我。
-=======
-> 若有其他問題可在 GitHub 發起 issues 或寄 Email 給我。
->>>>>>> 7fa89e1a2491c424e9b5658fac2553ef2b22de84
