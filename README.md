@@ -1,4 +1,23 @@
-# Discord-Robot-Earthquake-Detection-Robot
-基於在通訊軟體 **Discord** 上的製作的自動偵測地震並回報機器人   
-地震偵測機器人 Earthquake Detection Robot
-## 
+# Discord-Robot-Earthquake-Detection-Robot  
+
+    基於在通訊軟體 Discord 上的自動偵測地震並回報聊天機器人
+    Based on chatbots that automatically detect earthquakes and report back on the messaging app Discord.
+
+## 執行狀況 & 原理說明 *Implementation Status* & *Principle Description*
+
+> 可參考以下連結說明。
+
+- YouTube：https://youtu.be/G_WQ1L2o_mE  
+- Paper：https://drive.google.com/file/d/1KoVMp36HbNwWH8vUUlcwltfjxMyS727S/view?usp=sharing  
+
+## 配置要求 *Configuration Requirements*
+
+> Python 模組版本可參考資料庫中 *requirements.txt*   
+> 其餘則可參考原始製作環境，以下：
+
+- Windows 10
+- Python 3.7.0
+
+## 參考 *References*
+
+> 若有其他問題可在 GitHub 發起 issues 或寄 Email 給我。
