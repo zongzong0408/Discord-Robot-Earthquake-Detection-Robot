@@ -1,4 +1,4 @@
-# Discord-Robot-Earthquake-Detection-Robot  
+# Discord Robot Earthquake Detection Robot  
 
     基於在通訊軟體 Discord 上的自動偵測地震並回報聊天機器人
     Based on chatbots that automatically detect earthquakes and report back on the messaging app Discord.
